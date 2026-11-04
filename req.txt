@@ -1,5 +1,7 @@
 langchain
 langchain_community
-langchain_text_splitters
 langchain_openAI
-langchain_community.vectorstores
+langchain_text_splitters
+pypdf
+python-dotenv
+faiss-cpu
